@@ -1,2 +1,2 @@
-# Hello-world
-practice
+# this is translation of xv6 book
+
